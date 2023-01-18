@@ -8,6 +8,7 @@ public class Calc {
         float num1 = scan.nextFloat();
 
         System.out.println("Введите второе чило: ");
+        System.out.println("Введите второе чило: ");
         float num2 = scan.nextFloat();
 
         System.out.println("Введите третье чило: ");
